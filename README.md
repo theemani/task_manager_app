@@ -88,10 +88,6 @@ Contributions are welcome! Please fork this repository, make your changes, and s
 4. Push to the branch (`git push origin feature-branch`).
 5. Create a new Pull Request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
 Created by [Manuel Oni](https://github.com/theemani) - feel free to contact me!
